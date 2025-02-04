@@ -3,6 +3,14 @@ body {
 
 }
 
+.organic-title {
+    margin-left: 50px;
+}
+
+.title-about {
+    margin-left: 50px;
+}
+
 .vegetables {
     padding-top: 80px;
     padding-bottom: 80px;
@@ -79,7 +87,6 @@ body {
         margin-left: 50px;
     }
 
-
 }
 
 /*MOBILE END*/
@@ -126,7 +133,7 @@ body {
 
 /*TABLET END*/
 /*FOR DESKTOP*/
-@media screen and (min-width: 1280px) {
+@media screen (min-width: 1280px) {
     .organic-title {
         margin-bottom: 25px;
         margin-left: 50px;
